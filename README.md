@@ -12,14 +12,14 @@
   <a href="mailto:afonsomendes.tech@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://afonsofm.github.io](https://afonsofm.github.io/afonsomendes.github.io/" target="_blank">
+  <a href="https://afonsofm.github.io/afonsomendes.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ### 👨‍💻 About me
 
-Telecommunications engineer with a strong foundation in network systems, wireless communications and embedded development. I approach problems with an engineering mindset — breaking them down, understanding the underlying systems, and building solutions that work at the protocol level, not just the surface.
+A motivated person with a strong foundation in network systems, wireless communications and embedded development. I approach problems with an engineering mindset, breaking them down, understanding the underlying systems, and building solutions that work at the protocol level, not just the surface.
 
 ---
 
@@ -44,7 +44,6 @@ ISEL — Instituto Superior de Engenharia de Lisboa *(2021 – 2025)*
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
