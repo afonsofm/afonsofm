@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm Afonso 👋</h2>
 
 <p align="center">
-  Telecommunications & Informatics Engineering student @ IST Lisbon<br/>
+  Master´s student in Telecommunications & Informatics Engineering @ IST <br/>
   Interested in 5G networks, IoT, and building things that matter
 </p>
 
@@ -12,7 +12,7 @@
   <a href="mailto:afonsomendes.tech@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://afonsofm.github.io" target="_blank">
+  <a href="https://afonsofm.github.io](https://afonsofm.github.io/afonsomendes.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -32,16 +32,6 @@ Instituto Superior Técnico — University of Lisbon *(2025 – 2027)*
 **BSc. Electronics, Telecommunications & Computer Engineering**
 ISEL — Instituto Superior de Engenharia de Lisboa *(2021 – 2025)*
 - Core areas: digital electronics, signal processing, computer networks, telecommunications systems and embedded systems
-
----
-
-### 🔧 What I work on
-
-- 🎓 MSc. **Telecommunications & Informatics Engineering** @ IST — specializing in Telecom Systems and Network & Systems Management
-- 📡 Working with **5G core networks** (Open5GS), **LoRa/LPWAN** signal analysis, and **C-ITS** vehicular communication systems
-- 🔧 Hands-on with **SDR**, **Arduino**, **GNS3**, **Wireshark** and **Linux-based** network environments
-- 🌱 Currently exploring **network slicing**, **edge computing** and **software-defined networking (SDN)**
-- 💬 Ask me about **5G architecture**, **wireless protocols** or **embedded systems**
 
 ---
 
