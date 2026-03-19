@@ -22,10 +22,6 @@
 - 🎓 Doing my Master's in **Telecom & Informatics Engineering** at IST, University of Lisbon
 - 🔭 Currently working on projects involving **5G**, **IoT** and **vehicular networks**
 - 🌱 Exploring **network security** and **cloud-native infrastructure**
-- 🏆 1st Place — BEST Entrepreneurship Experience (2026)
-- 🌍 Volunteer at **Web Summit Lisbon** 2023 & 2024
-- 💬 Ask me about **telecoms, networks or embedded systems**
-- ⚡ Fun fact: I run half marathons and play padel
 
 ---
 
@@ -38,7 +34,6 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 ---
