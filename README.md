@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/afonso-figueira-mendes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:afonsomendes.tech@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://afonsofm.github.io/afonsomendes.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
