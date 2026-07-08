@@ -51,15 +51,3 @@ ISEL — Instituto Superior de Engenharia de Lisboa *(2021 – 2025)*
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=afonsofm&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsofm&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afonsofm&theme=dark&hide_border=true"/>
-</p>
