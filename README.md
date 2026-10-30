@@ -1,53 +1,39 @@
-<h2 align="center">Hey, I'm Afonso 👋</h2>
+<h2 align="center">Afonso Mendes</h2>
 
 <p align="center">
-  Master´s student in Telecommunications & Informatics Engineering @ IST <br/>
-  Interested in 5G networks, IoT, and building things that matter
+  MSc student in Telecommunications & Informatics Engineering at Instituto Superior Técnico<br/>
+  Networks · Wireless Communications · IoT
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/afonso-figueira-mendes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:afonsomendes.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://afonsofm.github.io/afonsomendes.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/afonso-figueira-mendes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:afonsomendes.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://afonsofm.github.io/afonsomendes.github.io/"><img src="https://img.shields.io/badge/Portfolio-121011?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
-### 👨‍💻 About me
+### About
 
-A motivated person with a strong foundation in network systems, wireless communications and embedded development. I approach problems with an engineering mindset, breaking them down, understanding the underlying systems, and building solutions that work at the protocol level, not just the surface.
+I work on network systems, wireless communications and embedded development. I like to understand how systems behave at the protocol level and build solutions from there.
 
----
+- Currently working on my MSc thesis: end-to-end analysis of residential Wi-Fi 7 networks over PON
+- Data Analytics summer intern at NOS (2026)
 
-### 🎓 Academic Background
+### Education
 
-**MSc. Telecommunications & Informatics Engineering**
-Instituto Superior Técnico — University of Lisbon *(2025 – 2027)*
-- Double specialization: **Telecommunications Systems** · **Network and Systems Management**
+**MSc, Telecommunications & Informatics Engineering** · Instituto Superior Técnico, University of Lisbon · 2025 – 2027
+Specializations: Telecommunications Systems; Network and Systems Management
 
-**BSc. Electronics, Telecommunications & Computer Engineering**
-ISEL — Instituto Superior de Engenharia de Lisboa *(2021 – 2025)*
-- Core areas: digital electronics, signal processing, computer networks, telecommunications systems and embedded systems
+**BSc, Electronics, Telecommunications & Computer Engineering** · ISEL · 2021 – 2025
 
----
+### Tools & Languages
 
-### 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
-
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
