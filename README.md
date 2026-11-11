@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/afonso-figueira-mendes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:afonsomendes.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://afonsofm.github.io/afonsomendes.github.io/"><img src="https://img.shields.io/badge/Portfolio-121011?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://afonsomendes.vercel.app"><img src="https://img.shields.io/badge/Portfolio-121011?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ### About
